@@ -1,11 +1,11 @@
-import TodoApp from "./components/TodoApp";
+import Baitai2 from './baitap2/baitap2.jsx'
 
 function App() {
   return (
-    <div style={{ padding: 20 }}>
-      <TodoApp />
-    </div>
-  );
+    <>
+      <Baitai2 />
+    </>
+  )
 }
 
-export default App;
+export default App
