@@ -1,0 +1,19 @@
+.badge {
+  padding: 8px 16px;
+  border-radius: 12px;
+  color: white;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+.online {
+  background-color: green;
+}
+
+.offline {
+  background-color: gray;
+}
+
+.busy {
+  background-color: red;
+}
