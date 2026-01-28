@@ -1,0 +1,24 @@
+.btn-primary{
+    background-color: white;
+    color: black;
+}
+.btn-danger{
+    background-color: red;
+    color: white;
+}
+.btn-success{
+    background-color: rgb(0, 78, 0);
+    color: white;
+}
+.btn-primary:hover{
+    background-color: rgb(212, 212, 212);
+    color: black;
+}
+.btn-danger:hover{
+    background-color: rgb(158, 0, 0);
+    color: white;
+}
+.btn-success:hover{
+    background-color: green;
+    color: white;
+}
